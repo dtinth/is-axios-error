@@ -1,7 +1,7 @@
 {
   "name": "is-axios-error",
   "description": "Check if an error is an Axios error",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "files": [
     "src",
     "lib",
