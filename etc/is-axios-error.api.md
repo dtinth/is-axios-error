@@ -9,6 +9,4 @@ import { AxiosError } from 'axios';
 // @public
 export function isAxiosError(e: any, status?: number): e is AxiosError;
 
-// (No @packageDocumentation comment for this package)
-
 ```
